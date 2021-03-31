@@ -1,25 +1,25 @@
 {
-  "tokens": [
+  "Token": [
     {
       "id": 0,
-      "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 0"
+      "description": "Slinky MC",
+      "external_url": "https://slinkyfinance.xyz",
+      "image": "https://slinkyfinance.xyz/nft/img/200.png",
+      "name": "Slnky MC"
     },
     {
-      "id": 1,
-      "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 1"
+     "id": 1,
+      "description": "Slinky MC",
+      "external_url": "https://slinkyfinance.xyz",
+      "image": "https://slinkyfinance.xyz/nft/img/200.png",
+      "name": "Slnky MC"
     },
     {
-      "id": 2,
-      "description": "My NFT",
-      "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
-      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-      "name": "My NFT 2"
+     "id": 3,
+      "description": "Slinky MC",
+      "external_url": "https://slinkyfinance.xyz",
+      "image": "https://slinkyfinance.xyz/nft/img/200.png",
+      "name": "Slnky MC"
     }
   ]
 }
